@@ -1,4 +1,4 @@
-To run server:
+To run server: #n
   npm start
 To run front-end
   npm run dev
